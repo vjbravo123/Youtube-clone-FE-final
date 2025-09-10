@@ -5,6 +5,8 @@ This project mimics YouTube’s core features like browsing videos, playing vide
 
 🔗 **Frontend Repository:** [Youtube-clone-FE-final](https://github.com/vjbravo123/Youtube-clone-FE-final.git)
 
+🌍 **Live Project:** [YouTube Clone Live](https://creative-semolina-33808f.netlify.app/)
+
 ---
 
 ## 🚀 Features
