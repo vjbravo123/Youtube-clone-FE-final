@@ -30,12 +30,21 @@ Since the backend is deployed on **Render’s free tier**, the server **goes to 
 
 ---
 
+## 🔑 Sample Credentials
+To explore the app quickly, you can log in using the following test account:
+
+- **Email:** `josh@gmail.com`  
+- **Password:** `123`  
+
+---
+
 ## 📂 Installation & Setup
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/vjbravo123/Youtube-clone-FE-final.git
 cd Youtube-clone-FE-final
+
 ```
 
 ### 2️⃣ Install dependencies
@@ -55,16 +64,11 @@ The app will run locally at:
 
 ## 📸 Screenshots
 
-(You can add some screenshots of Home Page, Video Player, and Channel Page here)
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 ---
 
-## 🌟 Future Improvements
-- Dark mode support 🌙  
-- Video upload feature 🎥  
-- Notifications 🔔  
-
----
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
